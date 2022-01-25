@@ -1,0 +1,378 @@
+fileFormatVersion: 2
+guid: c381eada9e4da724bb2da5f1ae939e1c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7896114930235605639
+    second: bullet_impact_0
+  - first:
+      213: 3143718428349234060
+    second: bullet_impact_1
+  - first:
+      213: -6691810145631921583
+    second: bullet_impact_2
+  - first:
+      213: -6378176564878699407
+    second: bullet_impact_3
+  - first:
+      213: 318938924519874129
+    second: bullet_impact_4
+  - first:
+      213: 1831010515053537495
+    second: bullet_impact_5
+  - first:
+      213: -4216354109896984743
+    second: bullet_impact_6
+  - first:
+      213: 2437332192550559016
+    second: bullet_impact_7
+  - first:
+      213: 7885685168512303050
+    second: bullet_impact_8
+  - first:
+      213: -115187138060868556
+    second: bullet_impact_9
+  - first:
+      213: 3733789304383674303
+    second: bullet_impact_10
+  - first:
+      213: -8783897124992278355
+    second: bullet_impact_11
+  - first:
+      213: -5576139244940628304
+    second: bullet_impact_12
+  - first:
+      213: -7535638144151832788
+    second: bullet_impact_13
+  - first:
+      213: -366532448815787534
+    second: bullet_impact_14
+  - first:
+      213: 1081420524426077763
+    second: bullet_impact_15
+  - first:
+      213: 5091488274123842380
+    second: bullet_impact_16
+  - first:
+      213: -4527428506332848489
+    second: bullet_impact_17
+  - first:
+      213: -683366908558554798
+    second: bullet_impact_18
+  - first:
+      213: -273592236858173835
+    second: bullet_impact_19
+  - first:
+      213: 3185344001519836934
+    second: bullet_impact_20
+  - first:
+      213: -7920353182323569685
+    second: bullet_impact_21
+  - first:
+      213: 4595069606944089018
+    second: bullet_impact_22
+  - first:
+      213: -3263230059446036799
+    second: bullet_impact_23
+  - first:
+      213: 5626421862082394006
+    second: bullet_impact_24
+  - first:
+      213: 5906133616945119348
+    second: bullet_impact_25
+  - first:
+      213: -6371445910735168542
+    second: bullet_impact_26
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bullet_impact_0
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 357
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7820a5291b2a49d60800000000000000
+      internalID: 7896114930235605639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullet_impact_1
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 354
+        width: 73
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8bfa93214bb0ab20800000000000000
+      internalID: 3143718428349234060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullet_impact_2
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 351
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a1145902ae123a0800000000000000
+      internalID: -6691810145631921583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullet_impact_3
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 191
+        width: 86
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1741faf053a2c77a0800000000000000
+      internalID: -6378176564878699407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullet_impact_4
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 173
+        width: 123
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e5d0513491d6400800000000000000
+      internalID: 318938924519874129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullet_impact_5
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 167
+        width: 135
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d865c1cc5e096910800000000000000
+      internalID: 1831010515053537495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullet_impact_6
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 6
+        width: 141
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 957f458b6408c75c0800000000000000
+      internalID: -4216354109896984743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullet_impact_7
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 12
+        width: 127
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d999037b423d120800000000000000
+      internalID: 2437332192550559016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullet_impact_8
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 12
+        width: 134
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acffdbf61e49f6d60800000000000000
+      internalID: 7885685168512303050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
